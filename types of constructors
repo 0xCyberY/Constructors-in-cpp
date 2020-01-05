@@ -5,3 +5,14 @@ Default constructor is the constructor which doesn’t take any argument. It has
 The constructor that can take arguments are called parameterized constructor.
 Copy constructor
 A copy constructor is a member function which initializes an object using another object of the same class.
+
+
+2. Parameterized Constructors:
+It is possible to pass arguments to constructors.
+These arguments help initialize an object when it is created.
+To create a parameterized constructor, simply add parameters to it the way you would to any other function.
+When you define the constructor‟s body, use the parameters to initialize the object.
+
+
+3. Copy Constructor: A
+copy constructor is a member function which initializes an object using another object of the same class.
