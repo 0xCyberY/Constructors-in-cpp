@@ -1,0 +1,7 @@
+Different types of constructors
+Default constructor or Zero Argument Constructor
+Default constructor is the constructor which doesn’t take any argument. It has no parameters.
+Parameterized constructor
+The constructor that can take arguments are called parameterized constructor.
+Copy constructor
+A copy constructor is a member function which initializes an object using another object of the same class.
